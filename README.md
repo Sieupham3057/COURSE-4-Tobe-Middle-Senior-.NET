@@ -5,11 +5,13 @@
      👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
           Bài 1: 
 # StructureCode-SetupCiCd : Học Phí: "5.200.000" ~"3.120.000"~ ~(Discount 40% cho 15 người đăng ký đầu tiên)~
+
+
   ## Bank Informations:  
-                        * Name: TRAN VAN DONG 
-                        * Bank: MB Bank
-                        * Account Number: 0972631178
-                        * Message: <YourEmail>-<YourPhone>-<CourseId=DL-304>
+<p align="center">
+     <img alige="center" src="https://github.com/Sieupham3057/COURSE-4-Tobe-Middle-Senior-.NET/assets/146793515/ce834660-604f-4cee-a357-b20c0ab86e92" width="200">
+</p>
+
   ## Content:
   ## 1. Kien Thuc Nang Cao
      
