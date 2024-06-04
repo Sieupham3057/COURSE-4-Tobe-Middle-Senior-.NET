@@ -4,13 +4,12 @@
      Bài học đều hơn 1 tiếng, có bài học 2 tiếng, 2 tiếng rưỡi ... Đi sâu vào bản chất cốt lõi vấn đề 💕💕💕
      👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
           Bài 1: 
-# StructureCode-SetupCiCd : Học Phí: ~"5.200.000"~ "3.120.000" (Discount 40% cho 15 người đăng ký đầu tiên)
+# StructureCode-SetupCiCd : Học Phí: "5.200.000" ~"3.120.000"~ ~(Discount 40% cho 15 người đăng ký đầu tiên)~
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
                         * Bank: MB Bank
                         * Account Number: 0972631178
                         * Message: <YourEmail>-<YourPhone>-<CourseId=DL-304>
-
   ## Content:
   ## 1. Kien Thuc Nang Cao
      
